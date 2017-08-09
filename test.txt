@@ -6,3 +6,5 @@ test git3
 master 01
 
 conflict AAA
+
+revert test 001
